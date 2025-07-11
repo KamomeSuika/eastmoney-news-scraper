@@ -6,6 +6,6 @@ Automatically get news titles, date, urls from eastmoney by keywords
 
 Results will be like
 
-<img width="2608" height="689" alt="sample" src="https://github.com/user-attachments/assets/e3bbbe65-07c7-4298-bc2a-34e34911d320" />
+<img width="2608" height="689" alt="sample" src="https://github.com/user-attachments/assets/aefaf30b-1f8e-4aff-b7a0-4e0667a04cda" />
 
-Good for daily frequency news updates
+Good for daily frequency news updates for textual analysis
